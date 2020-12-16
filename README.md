@@ -28,12 +28,13 @@ uint8_t cnt_pa0;`
 	}
 }`
 3. In main loop check variable pres_pa0, if it's true -> execute required code:
-	`while(1){
+`while(1){
 
 		if(pres_pa0){
 			pres_pa0 = 0;
    /* Here code to execute */
    
+		}
 		}`
  
  ## Debug
