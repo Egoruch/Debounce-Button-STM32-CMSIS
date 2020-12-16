@@ -4,6 +4,7 @@
 * Youtube (rus): 
 * Source (en): https://cxemka.com/upload/art/button%20bounce/f/Software%20debouncing%20of%20button.pdf
 ___
+  ![alt text](https://cxemka.com/upload/art/button%20bounce/software_button_bounce_stm32.svg)
 * STM32F411CU6
 * STM32CubeIDE
 * CMSIS
