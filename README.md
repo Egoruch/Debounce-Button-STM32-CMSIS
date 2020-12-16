@@ -11,7 +11,8 @@ ___
   ![alt text](https://cxemka.com/upload/art/button%20bounce/button_circuit_diagram.svg)
  ## How to use?
  1. Create three global variables (for each pin):
-`{c}/* PA0 */
+```ruby
+/* PA0 */
 uint8_t pres_pa0;
 uint8_t prev_pa0;
-uint8_t cnt_pa0;`
+uint8_t cnt_pa0;```
