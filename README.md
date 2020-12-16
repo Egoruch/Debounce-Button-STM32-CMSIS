@@ -11,7 +11,7 @@ ___
  ## Connection diagram
   ![alt text](https://cxemka.com/upload/art/button%20bounce/button_circuit_diagram.svg)
  ## How to use?
- 1. Create three global variables (for each pin):
+ 1. Create three global variables (for every pin):
 ```ruby
 /* PA0 */
 uint8_t pres_pa0;
