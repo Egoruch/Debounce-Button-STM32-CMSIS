@@ -1,6 +1,6 @@
 # Debounce-Button-CMSIS
  Simple and easy to use debounce algorithm for STM32.
-* Article (rus): https://cxemka.com/73-prostoi-kod-dlja-drebezga-knopok-k-stm32.html
+* Article (rus): https://cxemka.com/73-algoritm-borby-s-drebezgom-kontaktov-podklyuchenie-knopki-stm32.html
 * Youtube (rus): https://youtu.be/emNMJ-l1AHg
 * Source (en): https://cxemka.com/upload/art/button%20bounce/f/Software%20debouncing%20of%20button.pdf
 ___
